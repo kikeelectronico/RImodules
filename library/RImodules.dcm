@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP8266
+D WIFI module ESP8266
+K wifi
+$ENDCMP
+#
+#End Doc Library

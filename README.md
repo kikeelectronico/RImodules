@@ -6,6 +6,10 @@ RImodules is a library that contains several electronics modules that I have use
 
 # Modules
 	- ESP8266 WIFI module
+	- TMP36	-> Temperature sensor
+		-TO-92
+		-SMD SOIC-8
+	- ISL6294 -> Lipo Charger
 
 # Install
 - For Ubuntu copy /library in  /usr/share/kicad/library

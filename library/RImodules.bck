@@ -5,4 +5,9 @@ D WIFI module ESP8266
 K wifi
 $ENDCMP
 #
+$CMP ISL6294
+D isl6294
+K controlador carga lipo litio lion
+$ENDCMP
+#
 #End Doc Library

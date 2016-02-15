@@ -10,6 +10,7 @@ RImodules is a library that contains several electronics modules that I have use
 		-TO-92
 		-SMD SOIC-8
 	- ISL6294 -> Lipo Charger
+	- MPU-6050 -> Acelerometer
 
 # Install
 - For Ubuntu copy /library in  /usr/share/kicad/library

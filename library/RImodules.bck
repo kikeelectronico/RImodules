@@ -10,4 +10,9 @@ D isl6294
 K controlador carga lipo litio lion
 $ENDCMP
 #
+$CMP MPU-6050
+D Acelerometro
+K Acelerometro
+$ENDCMP
+#
 #End Doc Library

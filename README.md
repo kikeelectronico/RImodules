@@ -2,7 +2,7 @@
 Kicad library with electronics modules
 
 # Description
-RImodules is a library that contains several electronics modules that I have used on my projects
+RImodules is a library that contains several electronics modules that I have used on my projects and their Mouser Ref Number
 
 # Modules
 	- ESP8266 WIFI module
